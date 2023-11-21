@@ -77,4 +77,20 @@ string getClothingSuggestion(const string& gender, int weight, int feet, int inc
     }
 }
 
+int main() {
+    string gender = getValidGender();
+    int weight = getValidWeight();
+    int feet, inches;
+    getValidHeight(feet, inches);
+    int age = getValidAge();
+    string event = getValidEvent();
+
+    string clothingSuggestion = getClothingSuggestion(gender, weight, feet, inches, age, event);
+
+    cout << "Based on your inputs, we suggest: " << clothingSuggestion << endl;
+
+    return 0;
+}
+
+
 
