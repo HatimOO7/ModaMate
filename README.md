@@ -4,7 +4,7 @@
 # Please check the master branch for the code 
 
 ## Project Description
-This project is a clothing recommendation system that provides personalized suggestions based on various factors such as gender, weight, height, age, and event type. It offers clothing recommendations for casual, formal, and Islamic dress preferences.
+Sometimes it becomes too hard to choose proper clothes, on the time of go out for an event. This project is a clothing recommendation system that provides personalized suggestions based on various factors such as gender, weight, height, age, and event type. It offers clothing recommendations for casual, formal, and Islamic dress preferences.
 
 ## Way to Build and Run the Project
 1. **Clone the Repository**: Clone this repository to your local machine.
