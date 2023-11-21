@@ -1,6 +1,8 @@
 # ModaMate
 # A Clothing Recommendation System
 
+# Please check the master branch for the code 
+
 ## Project Description
 This project is a clothing recommendation system that provides personalized suggestions based on various factors such as gender, weight, height, age, and event type. It offers clothing recommendations for casual, formal, and Islamic dress preferences.
 
@@ -29,3 +31,7 @@ This project is a clothing recommendation system that provides personalized sugg
 - **C++ Compiler**: This project is written in C++ and requires a C++ compiler (such as g++) to compile and run the code.
 - **Input Validation**: Ensure valid inputs for gender, weight, height, age, and event type to receive accurate clothing recommendations.
 - **Adjusting Suggestions**: The clothing suggestions can be modified within the code to match specific preferences or cultural variations.
+
+
+## Name: Hatim Al Amin Chowdhury 
+## ID: 222-115-205
