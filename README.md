@@ -66,5 +66,5 @@ Upon providing the necessary inputs, the program displays a suggestion for cloth
 This program is licensed under the [MIT License](LICENSE).
 
 ## Author 
-**Hatim Al Amin Chowdhury**
-**ID: 222-115-205**
+- **Hatim Al Amin Chowdhury**
+- **ID: 222-115-205**
